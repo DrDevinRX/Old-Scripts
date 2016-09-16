@@ -1,3 +1,5 @@
+#!/bin/bash
+
 bk=/mnt/Nepgear/Backup/yt
 bk_dir=$bk/"$1"
 if [ ! -d "$bk_dir" ]
