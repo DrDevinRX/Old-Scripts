@@ -1,4 +1,4 @@
-# Devin Goldstein -- 9/12/16
+# Devin -- 9/12/16
 # loop-hex.asm -- Creates a loop that prints the numbers 0 - 15 in hex
 # Regs used:
 # $s0: Used for loop test condition
